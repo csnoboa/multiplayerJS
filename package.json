@@ -1,0 +1,26 @@
+{
+  "name": "multiplayerjs",
+  "version": "1.0.0",
+  "description": "First multiplayer game",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csnoboa/multiplayerJS.git"
+  },
+  "author": "csnoboa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csnoboa/multiplayerJS/issues"
+  },
+  "homepage": "https://github.com/csnoboa/multiplayerJS#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node": "^13.6.0"
+  },
+  "devDependencies": {}
+}
